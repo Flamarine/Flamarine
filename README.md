@@ -1,16 +1,23 @@
-#####  _N_
-#####  _A_
-#####  _M_
-#####  _E_
-###  _/_
-######  _P_
-######  _E_
-######  _A_
-######  _K_
-######  _S_
-######  _T_
-######  _E_
-######  _P_
-_Did you see me?_
+
+               
+               Can you see me?               ▓▓▓
+                                                       
+                                                       Who did this?       ▓
+                                 
+      ▓▓▓▓▓                      Who are you?
+                                 
+                        WHO AM I?                       ▒▒
+                         
+                                                  Dev...          ▓▓▓▓
+          Faith...          ░░░
+                                        
+                                        Believe...                 ▒▒▒▒▒
+                       Truth...?
+      ░░░                                  ▓▓▓                       For those who destroyed me...
+                                                                     and betrayed me...
+                              [NULL]                                 and killed me.                                     
+                                           STOP READING
+           ▓▒░                            ▓
+                           If it's the first time you read this, then STOP RΣΣΣΣΣΣΣΛ------
 
 [![Peakstep233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakstep233)](https://github.com/anuraghazra/github-readme-stats)
