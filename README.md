@@ -1,13 +1,16 @@
-### Hi there 👋
-
-I'm Peakstep! Glad to meet U!
-
-- 🔭 I’m currently working on Minecraft Fabric/Rift modding.
-- 🌱 I’m currently learning Kotlin and Java as well.
-- 💬 Ask me about nothing, because there are nothing to see...
-- 📫 How to reach me: Rhodes Island (The one from _Arknights_).
-- 😄 Pronouns: He/Him/His
-
-_Seriously, can't Mudrock come alive?_
+#####  _N_
+#####  _A_
+#####  _M_
+#####  _E_
+###  _/_
+######  _P_
+######  _E_
+######  _A_
+######  _K_
+######  _S_
+######  _T_
+######  _E_
+######  _P_
+_Did you see me?_
 
 [![Peakstep233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakstep233)](https://github.com/anuraghazra/github-readme-stats)
