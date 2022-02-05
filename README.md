@@ -20,4 +20,4 @@
            ▓▒░                            ▓
                            If it's the first time you read this, then STOP RΣΣΣΣΣΣΣΛ------
 
-[![Peakstep233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakstep233)](https://github.com/anuraghazra/github-readme-stats)
+[![Peakstep233's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkstDev)](https://github.com/anuraghazra/github-readme-stats)
