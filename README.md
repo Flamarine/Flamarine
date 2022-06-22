@@ -11,3 +11,5 @@
 * ~~Seriously, why can a human design such dumb things like ForgeGradle?~~
 
 [![pkstDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkstDev)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstDev)](https://github.com/anuraghazra/github-readme-stats)
