@@ -5,6 +5,7 @@
 * I love using MIT License or WTFPL License as the open-source licenses in my project.
 * I kinda dislike those who use ARR all the time.
 * I am currently learning [Rust](https://www.rust-lang.org/) and [TypeScript](https://www.typescriptlang.org/).
+  * I use [IntelliJ IDEA](https://www.jetbrains.com/idea/) + [IntelliJ Rust](https://intellij-rust.github.io/) as my Rust IDE.
 * My favorite JVM programming language is [Kotlin](https://kotlinlang.org/), though I use [Java](https://www.java.com/) more.
 * I've learned [C++](https://isocpp.org/), however I don't use it often.
 * I love [Frums](https://soundcloud.com/frums) and their music.
