@@ -10,7 +10,7 @@
   * I use [IntelliJ IDEA](https://www.jetbrains.com/idea/) + [IntelliJ Rust](https://intellij-rust.github.io/) as my Rust IDE.
   * Though, I'm also interested in [Julia](https://julialang.org/) and HolyC.
 * My favorite JVM programming language is [Kotlin](https://kotlinlang.org/), though I use [Java](https://www.java.com/) more.
-* I've learned [C++](https://isocpp.org/), however I don't use it often.
+* I've learned [C++](https://isocpp.org/), however I almost never use it because manual memory allocating is so dumb.
 * I love [Frums](https://soundcloud.com/frums) and their music.
 * ~~Seriously, why can a human design such dumb things like ForgeGradle?~~
 
