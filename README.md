@@ -1,6 +1,10 @@
 *pkstDev here.*
 
 ![BiliBili Follow Count](https://img.shields.io/badge/dynamic/json?color=blue&logo=bilibili&style=social&label=Follow&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D439727769%26jsonp%3Djsonp)
+![I Love Rust](https://img.shields.io/badge/I%20Love-Rust-red)
+![I Love Kotlin](https://img.shields.io/badge/I%20Love-Kotlin-blue)
+![I Use Java](https://img.shields.io/badge/I%20Use-Java-yellow)
+![fk u C++](https://img.shields.io/badge/fk%20u-C++-yellowgreen)
 
 * I am currently doing Minecraft modding (Most of the time I make mods with [FabricMC](https://fabricmc.net/)/[QuiltMC](https://quiltmc.org/) toolchain, sometimes also [Forge](https://www.minecraftforge.net/) or [NilLoader](https://git.sleeping.town/unascribed/NilLoader)).
 * I love to use [yarn](https://github.com/FabricMC/yarn) as deobfuscation mappings, even when modding in Forge (I use [Architectury Loom](https://github.com/architectury/architectury-loom) instead of [ForgeGradle](https://github.com/MinecraftForge/ForgeGradle)).
