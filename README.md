@@ -5,6 +5,7 @@
 ![I Love Kotlin](https://img.shields.io/badge/I%20Love-Kotlin-blue)
 ![I Use Java](https://img.shields.io/badge/I%20Use-Java-yellow)
 ![fk u C++](https://img.shields.io/badge/fk%20u-C++-yellowgreen)
+[![Discord](https://img.shields.io/discord/1008654503169511464?label=Discord)](https://discord.gg/zfPcG37uvm)
 
 * I am currently doing Minecraft modding (Most of the time I make mods with [FabricMC](https://fabricmc.net/)/[QuiltMC](https://quiltmc.org/) toolchain, sometimes also [Forge](https://www.minecraftforge.net/) or [NilLoader](https://git.sleeping.town/unascribed/NilLoader)).
 * I love to use [yarn](https://github.com/FabricMC/yarn) as deobfuscation mappings, even when modding in Forge (I use [Architectury Loom](https://github.com/architectury/architectury-loom) instead of [ForgeGradle](https://github.com/MinecraftForge/ForgeGradle)).
