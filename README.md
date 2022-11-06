@@ -18,6 +18,7 @@ Greetings from a senior high student aged 16. I...
 * ...have learned [C++](https://isocpp.org/), however I almost never use it because manual memory allocating is so dumb.
 * ...love [Frums](https://soundcloud.com/frums) and their music.
 * ...sometimes play rhythm games (mostly Arcaea).
+* ...am an absolute [EMI](https://github.com/emilyploszaj/emi) fan. Don't even ask me to make REI compat in my mods, I use EMI only :)
 
 [![pkstDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkstDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
