@@ -23,3 +23,7 @@ Greetings from a senior high student aged 16. I...
 [![pkstDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkstDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstDev&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+~*Our small size of this compressed towel is convenient to carry, unwrapped a package, put in the water becomes large, how to tear can not be bad, used to wipe feet, wipe face, wipe mouth are very good to use, you see after opening like a round cake size, put in the water encounter water becomes larger and higher, water absorption is very strong. After opening, is a large thick towel, you see how he earned not bad, good not to lose hair not flocculation, use seven or eight times no problem, travel with it is very convenient, use it to wipe the feet, then wipe the mouth, wipe the face, clean and hygienic. What? Where to buy? Below the small yellow car, buy five packs to send five packs, but also free shipping!*~
+
+~*カッコイイと思いませんか？ 技術屋として、とてもクールだと思います。未来の生活にフィットする、楽しいひねりを加えたテクノロジーです。*~
