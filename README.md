@@ -1,8 +1,8 @@
 *pkstDev here.*
 
-![BiliBili Follow Count](https://img.shields.io/badge/dynamic/json?color=blue&logo=bilibili&style=social&label=Follow&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D439727769%26jsonp%3Djsonp)
-![I Love Rust](https://img.shields.io/badge/I%20Love-Rust-red)
-[![Discord](https://img.shields.io/discord/1008654503169511464?label=Discord)](https://discord.gg/zfPcG37uvm)
+[![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/zfPcG37uvm)
+[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/pkstBasaltLand)
+[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/Peakstep)
 
 Greetings from a senior high student aged 16. I...
 
