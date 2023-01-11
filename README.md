@@ -23,9 +23,7 @@ Greetings from a senior high student aged 16. I...
 * ...am an absolute [EMI](https://github.com/emilyploszaj/emi) fan. Don't even ask me to make REI compat in my mods, I use EMI only :)
 
 [![pkstDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkstDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkstDev&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/pkstDev/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
-
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/pkstDev/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
