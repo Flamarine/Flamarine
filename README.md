@@ -9,7 +9,7 @@
 Greetings from a senior high student aged 16. I...
 
 * ...play Arknights, Minecraft, Death Stranding and some other games.
-* ...am currently a Minecraft modder (Most of the time I make mods with [FabricMC](https://fabricmc.net/)/[QuiltMC](https://quiltmc.org/) toolchain, sometimes also [Forge](https://www.minecraftforge.net/) or [NilLoader](https://git.sleeping.town/unascribed/NilLoader)).
+* ...am currently a Minecraft modder (Most of the time I make mods with [QuiltMC](https://quiltmc.org/) toolchain, sometimes also [Forge](https://www.minecraftforge.net/), [FabricMC](https://fabricmc.net/) or [NilLoader](https://git.sleeping.town/unascribed/NilLoader)).
 * ...am an absolute [Yarn](https://github.com/FabricMC/yarn) fan.
 * ...love using MIT License or WTFPL License as the open-source licenses in my project.
 * ...kinda dislike those who use ARR all the time.
