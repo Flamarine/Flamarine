@@ -1,12 +1,10 @@
-*pkstDev here.*
-
 ***NOTE: This account is now for contribution only. Please view [Prismwork](https://github.com/Prismwork) for my personal projects.***
 
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/zfPcG37uvm)
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/pkstBasaltLand)
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/Peakstep)
 
-Greetings from a senior high student aged 16. I...
+Greetings from Flamarine/Amigaxon/Peakstep, a senior high student aged 16. I...
 
 * ...play Arknights, Minecraft, Death Stranding and some other games.
 * ...am currently a Minecraft modder (Most of the time I make mods with [QuiltMC](https://quiltmc.org/) toolchain, sometimes also [Forge](https://www.minecraftforge.net/), [FabricMC](https://fabricmc.net/) or [NilLoader](https://git.sleeping.town/unascribed/NilLoader)).
