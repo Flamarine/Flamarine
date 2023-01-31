@@ -15,7 +15,7 @@ Greetings from a senior high student aged 16. I...
 * ...kinda dislike those who use ARR all the time.
 * ...am currently learning [Rust](https://www.rust-lang.org/) and [TypeScript](https://www.typescriptlang.org/).
   * I use [CLion](https://www.jetbrains.com/clion/) + [IntelliJ Rust](https://intellij-rust.github.io/) as my Rust IDE.
-  * Though, I'm also interested in [Julia](https://julialang.org/), HolyC，[Elixir](https://elixir-lang.org/) and several functional programming languages (e.g. Haskell).
+  * Though, I'm also interested in [Julia](https://julialang.org/), HolyC, [Elixir](https://elixir-lang.org/) and several functional programming languages (e.g. Haskell).
 * ...love and am learning [Kotlin](https://kotlinlang.org/), though I use [Java](https://www.java.com/) more.
 * ...have learned [C++](https://isocpp.org/), however I almost never use it because manual memory allocating is so dumb.
 * ...love [Frums](https://soundcloud.com/frums) and their music.
