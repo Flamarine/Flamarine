@@ -21,7 +21,7 @@ Greetings from Flamarine/Amigaxon/Peakstep, a senior high student aged 16. I...
 * ...love [Frums](https://soundcloud.com/frums) and their music.
 * ...sometimes play rhythm games (mostly Arcaea).
 * ...am an absolute [EMI](https://github.com/emilyploszaj/emi) fan. Don't even ask me to make REI compat in my mods, I use EMI only :)
-* ...sometimes also contribute to some retro MC projects, like [Better than Adventures!](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3106066-better-than-adventure-for-beta-1-7-3-timely) and [Better than Wolves](https://github.com/BTW-Community/BTW-Public).
+* ...sometimes also contribute to some retro MC projects, like [Better than Adventure!](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3106066-better-than-adventure-for-beta-1-7-3-timely) and [Better than Wolves](https://github.com/BTW-Community/BTW-Public).
 
 [![Flamarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flamarine&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flamarine&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
