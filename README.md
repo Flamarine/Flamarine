@@ -4,6 +4,8 @@
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/pkstBasaltLand)
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/Peakstep)
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=952405482012815410)
+
 Greetings from Flamarine/Amigaxon/Peakstep, a senior high student aged 16. I...
 
 * ...play Arknights, Minecraft, Death Stranding and some other games.
