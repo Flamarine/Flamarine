@@ -1,5 +1,7 @@
 ***NOTE: This account is now for contribution only. Please view [Prismwork](https://github.com/Prismwork) for my personal projects.***
 
+![:name](https://count.getloli.com/get/@Flamarine)
+
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/zfPcG37uvm)
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/pkstBasaltLand)
 [![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/Peakstep)
