@@ -4,7 +4,7 @@
 
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/zfPcG37uvm)
 [![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/pkstBasaltLand)
-[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/Peakstep)
+[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/Flamarine)
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=952405482012815410)
 
