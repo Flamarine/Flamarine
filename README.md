@@ -10,7 +10,7 @@
 
 # Hey, do you want a README?
 
-A fleshy body / Minecraft modder / sometimes ordinary developer / senior high school student.
+A walking corpse / Minecraft modder / sometimes ordinary developer / senior high school student.
 
 Bad at writing self-introduction.
 
