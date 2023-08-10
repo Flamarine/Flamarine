@@ -8,25 +8,52 @@
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=952405482012815410)
 
-Greetings from Flamarine/Amigaxon/Peakstep, a senior high student aged 16. I...
+# Hey, do you want a README?
 
-* ...play Arknights, Minecraft, Death Stranding and some other games.
-* ...am currently a Minecraft modder (Most of the time I make mods with [QuiltMC](https://quiltmc.org/) toolchain, sometimes also [Forge](https://www.minecraftforge.net/), [FabricMC](https://fabricmc.net/) or [NilLoader](https://git.sleeping.town/unascribed/NilLoader)).
-* ...am an absolute [Yarn](https://github.com/FabricMC/yarn) fan.
-* ...love using MIT License or WTFPL License as the open-source licenses in my project.
-* ...kinda dislike those who use ARR all the time.
-* ...am currently learning [Rust](https://www.rust-lang.org/) and [TypeScript](https://www.typescriptlang.org/).
-  * I use [CLion](https://www.jetbrains.com/clion/) + [IntelliJ Rust](https://intellij-rust.github.io/) as my Rust IDE.
-  * Though, I'm also interested in [Julia](https://julialang.org/), HolyC, [Elixir](https://elixir-lang.org/) and several functional programming languages (e.g. Haskell).
-* ...love and am learning [Kotlin](https://kotlinlang.org/), though I use [Java](https://www.java.com/) more.
-* ...have learned [C++](https://isocpp.org/), however I almost never use it because manual memory allocating is so dumb.
-* ...love [Frums](https://soundcloud.com/frums) and their music.
-* ...sometimes play rhythm games (mostly Arcaea).
-* ...am an absolute [EMI](https://github.com/emilyploszaj/emi) fan. Don't even ask me to make REI compat in my mods, I use EMI only :)
-* ...sometimes also contribute to some retro MC projects, like [Better than Adventure!](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/3106066-better-than-adventure-for-beta-1-7-3-timely) and [Better than Wolves](https://github.com/BTW-Community/BTW-Public).
+A fleshy body / Minecraft modder / sometimes ordinary developer / senior high school student.
 
-[![Flamarine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flamarine&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flamarine&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+Bad at writing self-introduction.
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Flamarine/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Flamarine/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
+Attempting hard to make myself believe the existentialism.
+
+### Operating systems I use
+
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+
+*I sometimes want to install one in my brain.*
+
+### Language I use
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+Something I want to learn:
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+*Does a person's writing affect their code?*
+
+### IDE I use
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+*The window of mine closes.*
+
+### Other softwares I use
+
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+## That's all. I'm just that dead simple.
+
+...
+
+Have you ever already **READ ME**?
