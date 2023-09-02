@@ -19,7 +19,7 @@ Attempting hard to make myself believe the existentialism.
 ### Operating systems I use
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) (Standalone and WSL)
 
 *I sometimes want to install one in my brain.*
 
