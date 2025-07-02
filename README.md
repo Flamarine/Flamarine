@@ -1,8 +1,8 @@
 ***NOTE: This account is now for contribution only. Please view [Prismwork](https://github.com/Prismwork) for my personal projects.***
 
 [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_vector.svg)](https://discord.gg/zfPcG37uvm)
-[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://twitter.com/pkstBasaltLand)
-[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/Flamarine)
+[![twitter-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitter-singular_vector.svg)](https://x.com/pkstBasaltLand)
+[![codeberg-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/codeberg-singular_vector.svg)](https://codeberg.org/flmr-elxr)
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=952405482012815410)
 <br/>
@@ -32,6 +32,8 @@
 <br/>
 <br/>
 <br/>
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
@@ -43,6 +45,7 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
